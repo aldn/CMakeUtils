@@ -3,4 +3,5 @@
 int main()
 {
    std::cout << FuncA() + FuncB() << std::endl;
+   return 0;
 }
